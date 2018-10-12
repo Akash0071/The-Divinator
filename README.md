@@ -1,2 +1,5 @@
 # The-Divinator
-It helps in predicting natural disasters.
+This app is basically made for determinig the probability of natural disasters that can occur in future. For this we will first collect all the data of natural disasters with date and time i.e. when and where it occured and then we will distribute it in different scales on the basis of damage of infrastructure and loss of lives. We will also differentiate the man made factors for that ( as what happened in KERALA i.e. release of water from dam). And for this with the help of ML and some complex algorithms ( including probability formula derived by analysing earlier disasters but will give approx. result) our app will help in predicting naural disasters.
+Our app also give updated notifications of man made intervention happening recently i.e. change in amount of water in dams (# Cauvery Dispute) and by this our app will give data of newly increased probability of diasaters.
+We will also have some alert features like vibration in mobile to alert peoples having this app and can also send message to all persons earlier selected by you.
+We can also connect it with government complaint sites so that it will provide increase or decrease probability of disasters data by itself to government sites and helps them in deciding their decisions for prevention of future disasters.
